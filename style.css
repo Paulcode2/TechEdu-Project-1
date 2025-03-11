@@ -132,12 +132,12 @@ body {
 
 /* Mobile Screen */
 @media only screen and (max-width: 480px) {
-  /* .nav {
+  .nav {
     flex-direction: column;
     position: static;
     gap: 2.5rem;
     display: none;
-  } */
+  }
   .nav .logo img {
     /* position: relative; */
     /* right: 250%; */
