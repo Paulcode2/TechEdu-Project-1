@@ -10,8 +10,7 @@ body {
   justify-content: space-around;
   padding: 0.7rem;
   position: fixed;
-  width: 100vw;
-  z-index: 1;
+  width: 100%;
 }
 .nav .logo img {
   width: 70px;
