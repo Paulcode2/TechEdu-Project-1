@@ -137,6 +137,7 @@ body {
     position: static;
     gap: 2.5rem;
     display: none;
+    width: 100%;
   }
   .nav .logo img {
     /* position: relative; */
